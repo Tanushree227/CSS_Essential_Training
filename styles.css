@@ -9,3 +9,10 @@ h1,h2
     text-align: center;
     padding: 5px;
 }
+ol
+{
+    margin: 40px;
+    padding: 25px;
+    font-size: larger;
+    background: lightblue;
+}
