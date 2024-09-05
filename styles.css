@@ -9,6 +9,10 @@ h1,h2
     text-align: center;
     padding: 5px;
 }
+.container
+{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
 ol
 {
     margin: 40px;
